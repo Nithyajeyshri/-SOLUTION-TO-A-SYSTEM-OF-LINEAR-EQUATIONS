@@ -30,6 +30,7 @@ print(result)
 ## Output:
 <img width="1473" height="728" alt="Screenshot 2026-05-01 125919" src="https://github.com/user-attachments/assets/b2ea3ffb-d897-4a80-9f60-1963a4f93509" />
 <img width="1478" height="306" alt="image" src="https://github.com/user-attachments/assets/3b406ca4-741f-4b02-a0a8-29787715c30a" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
